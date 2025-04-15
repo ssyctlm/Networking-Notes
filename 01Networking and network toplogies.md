@@ -104,8 +104,17 @@ All devices are connected to a single central cable (the "bus"). Data travels in
 - Limited scalability.
 - Data collisions are common on busy networks.
 
-**Collision under Bus Topology**   
-**CSMA/CD** Carrier Sense Multiple Access with Collision Detection.
+**Collision prevention under Bus Topology**   
+**CSMA/CD** Carrier Sense Multiple Access with Collision Detection.   
+The idea is simple: Before a device sends data, it "listens" to the medium (usually a wire or wireless channel) to check if it’s busy or idle.
+
+If the medium is idle → send data.     
+If the medium is busy → wait until it’s free.
+
+PS:    
+**CSMA/CA** (Carrier Sense Multiple Access with Collision Avoidance)
+
+**CSMA/CA** is a network protocol used in **wireless networks (Wi-Fi)** to avoid collisions before they happen, rather than detecting them after.
 
 
 ---
