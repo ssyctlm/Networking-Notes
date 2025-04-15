@@ -104,6 +104,10 @@ All devices are connected to a single central cable (the "bus"). Data travels in
 - Limited scalability.
 - Data collisions are common on busy networks.
 
+**Collision under Bus Topology**   
+**CSMA/CD** Carrier Sense Multiple Access with Collision Detection.
+
+
 ---
 
 ### 2. Star Topology
