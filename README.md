@@ -36,7 +36,7 @@ Networking
 │   ├── Subnetting & CIDR             
 │   ├── MAC Address                   
 │   └── Address Resolution Protocol (ARP)            
-│
+│    
 ├── 4️⃣ OSI Model & TCP/IP Model                  
 │   ├── OSI 7-Layer Model              
 │   │   ├── Application               
@@ -51,7 +51,7 @@ Networking
 │       ├── Transport         
 │       ├── Internet          
 │       └── Network Access             
-│
+│   
 ├── 5️⃣ Network Protocols       
 │   ├── Application Layer Protocols          
 │   │   ├── HTTP/HTTPS          
@@ -67,14 +67,14 @@ Networking
 │   └── Data Link Layer Protocols         
 │       ├── Ethernet          
 │       └── ARP       
-│         
+│             
 ├── 6️⃣ Network Services           
 │   ├── DNS (Domain Name System)         
 │   ├── DHCP (Dynamic Host Configuration Protocol)         
 │   ├── NAT (Network Address Translation)        
 │   ├── VPN (Virtual Private Network)       
 │   └── Proxy Services             
-│
+│     
 ├── 7️⃣ Network Security       
 │   ├── Firewalls      
 │   ├── VPNs          
@@ -90,7 +90,7 @@ Networking
 │       ├── Access Controls          
 │       ├── Backup and Recovery          
 │       └── Physical Security Measures            
-│
+│     
 ├── 8️⃣ Wireless & Mobile Networking        
 │   ├── Wi-Fi Standards (802.11a/b/g/n/ac/ax)           
 │   ├── Cellular Networks (3G, 4G, 5G)        
@@ -100,7 +100,7 @@ Networking
 │   │   ├── WPA/WPA2/WPA3          
 │   │   └── EAP        
 │   └── Mobile Device Management (MDM)             
-│               
+│                
 ├── 9️⃣ Cloud & Virtual Networking              
 │   ├── Cloud Service Models                
 │   │   ├── IaaS (Infrastructure as a Service)               
@@ -115,7 +115,7 @@ Networking
 │       ├── AWS           
 │       ├── Azure             
 │       └── Google Cloud Platform                 
-│
+│     
 ├── 🔟 Practical Networking          
 │   ├── Command-Line Tools           
 │   │   ├── ping           
@@ -129,7 +129,7 @@ Networking
 │   └── Performance Monitoring Tools          
 │       ├── SNMP              
 │       └── Network Monitoring Software (e.g., Nagios, Zabbix)             
-│
+│    
 ├── 1️⃣1️⃣ Network Design & Architecture          
 │   ├── Home Network Design            
 │   ├── Enterprise Network Architecture           
@@ -137,7 +137,7 @@ Networking
 │   │   └── Redundancy and High Availability               
 │   ├── Data Center Networking         
 │   └── Disaster Recovery Planning          
-│
+│     
 └── 1️⃣2️⃣ Emerging Networking Paradigms        
     ├── Information-Centric Networking (ICN)            
     ├── Content-Centric Networking (CCN)          
