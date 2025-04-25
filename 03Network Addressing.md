@@ -70,6 +70,8 @@ A company has `192.168.1.0/24` and splits it into two subnets:
 | `192.168.1.0/25` | `192.168.1.1` – `192.168.1.126` | 126          |
 | `192.168.1.128/25` | `192.168.1.129` – `192.168.1.254` | 126      |
 
+![image](https://github.com/user-attachments/assets/185127de-5ab2-40cd-9ee0-edaba21bd199)
+
 ---
 
 ### CIDR (Classless Inter-Domain Routing)
